@@ -9,9 +9,15 @@ import SwiftUI
 
 @main
 struct LandmarksApp: App {
+    @ObservedObject private var bookData = BookData()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                BookContentView(books: $bookData.books)
+            }
+            .onAppear {
+                bookData.load()
+            }
         }
     }
 }

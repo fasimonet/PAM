@@ -1,0 +1,730 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1729,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "8ewFubTO98gC",
+      "etag": "AhKj/jXn2D0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8ewFubTO98gC",
+      "volumeInfo": {
+        "title": "Etre riche au siècle de Voltaire",
+        "subtitle": "actes du colloque de Genève (18-19 juin 1994)",
+        "authors": [
+          "Michel Porret"
+        ],
+        "publisher": "Librairie Droz",
+        "publishedDate": "1996",
+        "description": "Entre négoce, pratiques marchandes, théorie économique, postulats moraux et imaginaire collectif, la richesse, toujours relative à la hiérarchie sociale, est-elle une condition du bonheur humain au XVIIIe siècle? Pour le tricentenaire de la naissance de Voltaire, ce volume collectif, né d'un colloque (juin 1994), veut apporter une réponse partielle à cette question qui agitait déjà les Anciens.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2600001697"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782600001694"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 426,
+        "printType": "BOOK",
+        "categories": [
+          "English literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8ewFubTO98gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8ewFubTO98gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=8ewFubTO98gC&pg=PA104&dq=riche&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=8ewFubTO98gC&dq=riche&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Etre_riche_au_si%C3%A8cle_de_Voltaire.html?hl=&id=8ewFubTO98gC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8ewFubTO98gC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Clavière du moins nous apparaît sensible à la misère qui côtoie le luxe insolent \u003cbr\u003e\ndes \u003cb\u003eriches\u003c/b\u003e . Le spectacle de la pauvreté et de l&#39;indifférence des gens fortunés lui \u003cbr\u003e\na inspiré les propos suivants , qui méritent d&#39;être cités : Vous n&#39;êtes pas assez&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X42dAQexNlwC",
+      "etag": "fM0Xwh0TZV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X42dAQexNlwC",
+      "volumeInfo": {
+        "title": "Une riche histoire de la société marchande",
+        "subtitle": "essai",
+        "authors": [
+          "Jeanne-Marie Viel"
+        ],
+        "publisher": "John Libbey Eurotext",
+        "publishedDate": "1999",
+        "description": "Depuis des millénaires, l'organisation sociale et économique de la plupart des civilisations s'est construite sur la base de l'échange des marchandises, puis du commerce, et plus près de nous, de la finance. Le lien indéfectible qui associe un bien à sa valeur d'échange - et à la monnaie qui la symbolise - a façonné les relations humaines. D'où vient donc le pouvoir de cette interdépendance qui n'est après tout qu'une convention sociale, qu'une simple unité de compte ou de paiement ? S'appuyant sur les thèses d'historiens reconnus, l'économiste Jeanne-Marie Viel dresse une histoire générale de la société marchande, depuis la civilisation sumérienne jusqu'à la société contemporaine. Comment l'échange naît-il, à l'origine, d'une forme particulière du langage social et se transforme-t-il progressivement en commerce ? Comment, du Moyen Age au début du XIXe siècle, la logique commerciale s'épanouit-elle ? Comment, depuis l'ère industrielle, le secteur bancaire, le développement des marchés financiers ont-ils profondément imposé leur puissance ? Cet essai passionnant, qui nous fait traverser les siècles et les civilisations, propose avant tout une analyse méthodique des excès ou des travers dont nos sociétés marchandes se sont progressivement imprégnées. Il nous délivre ici tous les éléments pour mieux en comprendre les mécanismes et nous incite à réfléchir aux moyens d'y remédier.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "2742002596"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782742002597"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "categories": [
+          "Commerce"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X42dAQexNlwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X42dAQexNlwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=X42dAQexNlwC&pg=PA3&dq=riche&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=X42dAQexNlwC&dq=riche&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Une_riche_histoire_de_la_soci%C3%A9t%C3%A9_march.html?hl=&id=X42dAQexNlwC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X42dAQexNlwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ils sont très \u003cb\u003eriches\u003c/b\u003e , très puissants . Mais pas forcément satisfaits . En tout cas , ils \u003cbr\u003e\npassent leur temps à essayer d &#39; être encore plus \u003cb\u003eriches\u003c/b\u003e et encore plus puissants \u003cbr\u003e\n. Parfois ça marche bien pour eux , mais souvent ils reviennent à la case départ&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ud8TAAAAQAAJ",
+      "etag": "eF8auUfdJy8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ud8TAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Riche ou pauvre",
+        "subtitle": "exposition succincte des causes et des effets de la distribution actuelle des richesses sociales",
+        "authors": [
+          "Antoine-Elisée Cherbuliez (professeur d'économie politique)"
+        ],
+        "publishedDate": "1840",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BCUL:1092316560"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ud8TAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ud8TAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=Ud8TAAAAQAAJ&pg=PA240&dq=riche&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ud8TAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ud8TAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Ud8TAAAAQAAJ&rdid=book-Ud8TAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Riche_ou_pauvre.epub?id=Ud8TAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/Riche_ou_pauvre.pdf?id=Ud8TAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1sNGlWujM85_WSw3VSQrAkko4o-A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ud8TAAAAQAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le \u003cb\u003eriche\u003c/b\u003e tient le pauvre sous sa main , car non - seulement il lui est supérieur et \u003cbr\u003e\nle domine par son savoir et son intelligence , mais encore il possède le capital \u003cbr\u003e\ndont l &#39; approvisionnement du pauvre fait partie . Le \u003cb\u003eriche\u003c/b\u003e , en consommant le&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BMYzdg2rL7EC",
+      "etag": "iV0mgAyfaQc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BMYzdg2rL7EC",
+      "volumeInfo": {
+        "title": "Le Gabon, un pays si riche... mais très pauvre",
+        "authors": [
+          "Etienne Bertrand Feumetio"
+        ],
+        "publisher": "Editions Publibook",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782748340617"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2748340612"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BMYzdg2rL7EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BMYzdg2rL7EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=BMYzdg2rL7EC&pg=PA67&dq=riche&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=BMYzdg2rL7EC&dq=riche&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_Gabon_un_pays_si_riche_mais_tr%C3%A8s_pau.html?hl=&id=BMYzdg2rL7EC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BMYzdg2rL7EC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Chapitre 2 Le Gabon, un pays \u003cb\u003eriche\u003c/b\u003e parmi les pays en développement Avec un \u003cbr\u003e\nPIB de 9 210 millions de dollars (chiffres du Fonds Monétaire International, World \u003cbr\u003e\nEconomic Outlook Database, septembre 2005), Le Gabon apparaît ainsi comme\u003cbr\u003e\n&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f1sJNlMA0TkC",
+      "etag": "WqR/yIRotaI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f1sJNlMA0TkC",
+      "volumeInfo": {
+        "title": "Georges de Porto-riche",
+        "authors": [
+          "Hendrik Brugmans"
+        ],
+        "publisher": "Slatkine",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f1sJNlMA0TkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f1sJNlMA0TkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=f1sJNlMA0TkC&pg=PA333&dq=riche&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=f1sJNlMA0TkC&dq=riche&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Georges_de_Porto_riche.html?hl=&id=f1sJNlMA0TkC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f1sJNlMA0TkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THÉÂTRE DE DÉSIR » 333 III Georges de Porto - \u003cb\u003eRiche\u003c/b\u003e écrivain de l&#39;amour ... en \u003cbr\u003e\namour , posséder n&#39;est rien , c&#39;est jouir qui fait tout . STENDHAL , De l&#39;Amour , \u003cbr\u003e\nXXXV . Mais en amour , posséder n&#39;est rien , c&#39;est à se donner que consiste le&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8GwCAAAAYAAJ",
+      "etag": "HVJmInNDOPQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8GwCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Moralité du mauvais riche et du ladre",
+        "subtitle": "à douze personnages ...",
+        "publishedDate": "1833",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433082518162"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "categories": [
+          "Moralities, French"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8GwCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8GwCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=8GwCAAAAYAAJ&pg=PP24&dq=riche&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8GwCAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8GwCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=8GwCAAAAYAAJ&rdid=book-8GwCAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Moralit%C3%A9_du_mauvais_riche_et_du_ladre.epub?id=8GwCAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/Moralit%C3%A9_du_mauvais_riche_et_du_ladre.pdf?id=8GwCAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0Wdce7odtJu_Uuy1ylQzf4TYzVwg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8GwCAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6qgWCwAAQBAJ",
+      "etag": "HmTGVyWbMkU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6qgWCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Plus riche à coup sûr !",
+        "authors": [
+          "Geoffrey DELABARRIERE"
+        ],
+        "publisher": "Maxima",
+        "publishedDate": "2009-01-01",
+        "description": "\"Je vais vous apprendre à devenir riche !\", tel est l'objectif de ce livre. Il explique les principes à respecter et décortique les méthodes qui ont fait leurs preuves... de la plus simple à la plus surprenante. A vous d'en choisir une ou plusieurs qui vous correspondent, ou, pourquoi pas, les essayer toutes pour comparer leur efficacité ! Les gens riches ne le deviennent pas par hasard ! Alors, décidez maintenant de prendre votre destin financier en main et saisissez les opportunités qui se présentent à vous.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782818803189"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2818803187"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6qgWCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6qgWCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=6qgWCwAAQBAJ&pg=PT45&dq=riche&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6qgWCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6qgWCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6qgWCwAAQBAJ&rdid=book-6qgWCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Plus_riche_%C3%A0_coup_s%C3%BBr-sample-epub.acsm?id=6qgWCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Plus_riche_%C3%A0_coup_s%C3%BBr-sample-pdf.acsm?id=6qgWCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6qgWCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le seul moyen de faire illusion est de vous parer des attributs vestimentaires des \u003cbr\u003e\ngens \u003cb\u003eriches\u003c/b\u003e. Idéalement, pratiquer un sport de \u003cb\u003eriche\u003c/b\u003e est un atout supplémentaire \u003cbr\u003e\npour créer une complicité de fait et entretenir les relations avec des gens \u003cb\u003eriches\u003c/b\u003e."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xBBaAAAAcAAJ",
+      "etag": "ff9He576+7I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xBBaAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Journal de Guillaume et de Michel Le Riche, avocats du roi a Saint-Maixent (1534 a 1586)",
+        "authors": [
+          "Armand Desire de La-Fontenelle de Vaudore",
+          "Guillaume Le-Riche"
+        ],
+        "publishedDate": "1846",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "ONB:+Z178013108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 540,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xBBaAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xBBaAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=xBBaAAAAcAAJ&pg=PR23&dq=riche&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xBBaAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xBBaAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=xBBaAAAAcAAJ&rdid=book-xBBaAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Journal_de_Guillaume_et_de_Michel_Le_Ric.epub?id=xBBaAAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xBBaAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Armand Desire de La-Fontenelle de Vaudore, Guillaume Le-\u003cb\u003eRiche\u003c/b\u003e. d&#39;abord à \u003cbr\u003e\nJean Pinet , échevin à Saint - Maixent , assassiné le le 24 juin 1573 , à l&#39;\u003cbr\u003e\nassemblée de Saint - Remi , près Verruie , et remariée , en février 1575 , avec \u003cbr\u003e\nJean Martin&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qqNwDwAAQBAJ",
+      "etag": "cHPSe24nVwE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qqNwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Comment devenir un mari riche",
+        "authors": [
+          "LARRY DONNELL FORD"
+        ],
+        "publisher": "Larry Ford",
+        "description": "Il y a eu une augmentation spectaculaire du nombre de maris qui ont découvert que l'acquisition de richesses est non seulement réalisable, mais qu'elle n'est en réalité pas aussi lourde qu'on le pensait. Nous exhortons les maris du monde entier à explorer la facilité de la richesse pour eux et leur famille de la première à la dernière page de ce livre. Amusez-vous et aimez votre nouvelle richesse trouvée.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qqNwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qqNwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=qqNwDwAAQBAJ&pg=PT8&dq=riche&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qqNwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qqNwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.8,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 4.8,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qqNwDwAAQBAJ&rdid=book-qqNwDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4800000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4800000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Comment_devenir_un_mari_riche-sample-epub.acsm?id=qqNwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Comment_devenir_un_mari_riche-sample-pdf.acsm?id=qqNwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qqNwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eriche\u003c/b\u003e,. \u003cb\u003eriche\u003c/b\u003e,. \u003cb\u003eriche\u003c/b\u003e. peut avoir besoin d&#39;apprendre à passer un examen du savoir. \u003cbr\u003e\nDivers exemples concrets sont fournis qui peuvent être révisées pour votre \u003cbr\u003e\nusage particulier. Je tiens aussi à décrire ma philosophie personnelle sur la \u003cbr\u003e\nfaçon&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HNA8AAAAcAAJ",
+      "etag": "spC5Tu+wdiU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HNA8AAAAcAAJ",
+      "volumeInfo": {
+        "title": "Le salut du riche",
+        "subtitle": "sermon",
+        "authors": [
+          "Samuel Pilet-Joly"
+        ],
+        "publishedDate": "1838",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BCUL:1094916698"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 28,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HNA8AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HNA8AAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=HNA8AAAAcAAJ&pg=PA23&dq=riche&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HNA8AAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HNA8AAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=HNA8AAAAcAAJ&rdid=book-HNA8AAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Le_salut_du_riche.epub?id=HNA8AAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/Le_salut_du_riche.pdf?id=HNA8AAAAcAAJ&hl=&output=pdf&sig=ACfU3U1JpKt9qJ0zGeZ6IskSLErBoTmtWQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HNA8AAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "et en actions ; si vous savez économiser vos biens , car il faut aussi que le \u003cb\u003eriche\u003c/b\u003e \u003cbr\u003e\nait de l&#39;économie ; si vous les économisez et les dépensez pour la gloire de Dieu \u003cbr\u003e\n; si , au milieu de l&#39;usage que vous en faites , vous fermez votre coeur à la vanité\u003cbr\u003e\n&nbsp;..."
+      }
+    }
+  ]
+}
